@@ -1,1 +1,2 @@
 # RandomPasswordGenerator
+This project is a **Random Password Generator** built with HTML, CSS, and JavaScript. It features a simple, user-friendly interface where users can generate a 12-character password consisting of uppercase letters, lowercase letters, numbers, and special symbols. The design includes a sleek display box showing the generated password and a button to copy the password to the clipboard. The page is styled using CSS with a modern, professional look, and dynamic password generation is handled via JavaScript functions.
